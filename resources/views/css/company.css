@@ -1,0 +1,11 @@
+@media only screen and (max-width: 645px) {
+	.card{
+        width:300px;
+    }
+}
+
+@media only screen and (min-width: 646px) {
+	.card{
+		width: 400px;
+	}
+}
